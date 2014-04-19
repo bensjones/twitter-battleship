@@ -2,10 +2,10 @@
 Twitter Battleship is a twitter bot you can play battleship with.
 
 ## Keys to interacting with Twitter Battleship
-When you tweet, just make sure you include `@twitterbattleship` and your command.
+When you tweet, just make sure you include `@twitbattleship` and your command.
 
 **Example:**
-`Yo @twitterbattleship! I am going to whip you! let's #start a game.`
+`Yo @twitbattleship! I am going to whip you! let's #start a game.`
 
 ## Commands
 
